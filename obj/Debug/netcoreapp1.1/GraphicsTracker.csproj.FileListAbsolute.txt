@@ -1,0 +1,9 @@
+c:\users\rinsoft-42\documents\visual studio 2017\Projects\GraphicsTracker\GraphicsTracker\bin\Debug\netcoreapp1.1\GraphicsTracker.deps.json
+c:\users\rinsoft-42\documents\visual studio 2017\Projects\GraphicsTracker\GraphicsTracker\bin\Debug\netcoreapp1.1\GraphicsTracker.runtimeconfig.json
+c:\users\rinsoft-42\documents\visual studio 2017\Projects\GraphicsTracker\GraphicsTracker\bin\Debug\netcoreapp1.1\GraphicsTracker.runtimeconfig.dev.json
+c:\users\rinsoft-42\documents\visual studio 2017\Projects\GraphicsTracker\GraphicsTracker\bin\Debug\netcoreapp1.1\GraphicsTracker.dll
+c:\users\rinsoft-42\documents\visual studio 2017\Projects\GraphicsTracker\GraphicsTracker\bin\Debug\netcoreapp1.1\GraphicsTracker.pdb
+c:\users\rinsoft-42\documents\visual studio 2017\Projects\GraphicsTracker\GraphicsTracker\obj\Debug\netcoreapp1.1\GraphicsTracker.csprojResolveAssemblyReference.cache
+c:\users\rinsoft-42\documents\visual studio 2017\Projects\GraphicsTracker\GraphicsTracker\obj\Debug\netcoreapp1.1\GraphicsTracker.AssemblyInfo.cs
+c:\users\rinsoft-42\documents\visual studio 2017\Projects\GraphicsTracker\GraphicsTracker\obj\Debug\netcoreapp1.1\GraphicsTracker.dll
+c:\users\rinsoft-42\documents\visual studio 2017\Projects\GraphicsTracker\GraphicsTracker\obj\Debug\netcoreapp1.1\GraphicsTracker.pdb
